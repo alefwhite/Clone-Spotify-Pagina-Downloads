@@ -1,0 +1,13 @@
+Responsivo
+
+Smart
+até 767px;
+
+Tablet
+768px até 1169px;
+
+Pc
+>= 1170px 
+
+
+ALT+SHIFT+F - para identacao
